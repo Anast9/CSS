@@ -1,0 +1,8 @@
+.Car {
+    border: 1px solid #e0c2f0;
+    margin-bottom: 10px;
+    display: block;
+    padding: 10px;
+   box-sizing: 0 4px 5px 0 #b2dcdc;
+   border-radius: 5px ;
+}
